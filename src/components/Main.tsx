@@ -2,6 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import CvIcon from '@mui/icons-material/Article';
+import MediumIcon from '@mui/icons-material/Newspaper';
 import '../assets/styles/Main.scss';
 
 function Main() {
@@ -17,6 +18,7 @@ function Main() {
           <a href="https://github.com/maquebermans" target="_blank" rel="noreferrer"><GitHubIcon/></a>
           <a href="https://www.linkedin.com/in/mukaromalisyaban/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           <a href="https://drive.google.com/file/d/1Jr0YOJi3BKPoTOwuKKJqQ3Ncmm_0rdM8/view?usp=sharing" target="_blank" rel="noreferrer"><CvIcon/></a>
+          <a href="https://medium.com/@mukaromalisyaban" target="_blank" rel="noreferrer"><MediumIcon/></a>
           </div>
           <h1>Mukarom Alisyaban</h1>
           <p>Engineer & Database Geek</p>
